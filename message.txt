@@ -1,0 +1,33 @@
+Hello PERSON_NAME,
+
+Here is your hourly output from r/ProgrammerHumor!
+
+1.	Title: Poor snake
+	Author: T0bi_Ethirbirge
+	Text: 
+	URL: https://i.redd.it/d27sbbny7uz21.jpg
+
+2.	Title: Artificially sophisticated
+	Author: tgf63
+	Text: 
+	URL: https://i.redd.it/zqpq5zqm6uz21.jpg
+
+3.	Title: sudoooooo
+	Author: Mihaw_kx
+	Text: 
+	URL: https://i.redd.it/rwcshazd6uz21.jpg
+	Some comments...	1. Sudo !!
+
+4.	Title: Data Analysis in R
+	Author: Anreall2000
+	Text: 
+	URL: https://i.redd.it/bh22wwaq3uz21.jpg
+
+5.	Title: Not my finest moment
+	Author: bladerdude
+	Text: 
+	URL: https://i.redd.it/f425o1g01uz21.png
+
+Have a super day!
+
+SENDER
